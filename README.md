@@ -14,6 +14,8 @@ I have made an intelligent agent using tensorflow(tensorflow 1 is used, not tens
 
 - **graph.png**- Consists of the graph of Biggest tile in the 2048 game vs no of episodes
 
+- **report.md**- SoC report
+
 ## Running the code:
 
 -**Requirements**:- Make sure you have python libraries such as numpy, matplotlib, gym and tensorflow installed on your system.
