@@ -2,7 +2,7 @@
 
 ## Project Description:
 
-I have made an intelligent agent using tensorflow to play the game 2048. I have used RL (Reinforcement Learning) method of **Q Learning** with different types of neural deep networks to form an efficient model called **DQN (Deep Q Network)**. More can be read about this method from this [paper.](https://deepmind.com/research/publications/deep-reinforcement-learning-double-q-learning)
+I have made an intelligent agent using tensorflow(tensorflow 1 is used, not tensorflow 2) to play the game 2048. I have used RL (Reinforcement Learning) method of **Q Learning** with different types of neural deep networks to form an efficient model called **DQN (Deep Q Network)**. More can be read about this method from this [paper.](https://deepmind.com/research/publications/deep-reinforcement-learning-double-q-learning)
 
 ## Description of Files:
 
