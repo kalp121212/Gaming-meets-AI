@@ -8,11 +8,11 @@ I have made an intelligent agent using tensorflow(tensorflow 1 is used, not tens
 
 - **Assignments**:- This consists of the Python assignments alloted to us by our mentors.
 
-- **game_2048.py**:- This file consists of the environment of the game 2048, it has all the important definitions required such as states, state space, action space, observation space etc. The system of giving rewards is also defined here.
+- **[game_2048.py](https://github.com/kalp121212/SoC_Gaming_meets_AI_Kalp/blob/main/Game_code/game_2048.py)**:- This file consists of the environment of the game 2048, it has all the important definitions required such as states, state space, action space, observation space etc. The system of giving rewards is also defined here.
 
-- **dqn.py**:- This file consists of a simple DQN network made using tensorflow with 3 hidden layers. It also has the agent class. The aim of this code is to train this network and update its results every 100 episodes in the graphs.
+- **[dqn.py](https://github.com/kalp121212/SoC_Gaming_meets_AI_Kalp/blob/main/Game_code/dqn.py)**:- This file consists of a simple DQN network made using tensorflow with 3 hidden layers. It also has the agent class. The aim of this code is to train this network and update its results every 100 episodes in the graphs.
 
-- **graph.png**- Consists of the graph of Biggest tile in the 2048 game vs no of episodes
+- **[graph.png](https://github.com/kalp121212/SoC_Gaming_meets_AI_Kalp/blob/main/Game_code/graph.png)**- Consists of the graph of biggest tile in the 2048 game vs no of episodes
 
 - **report.md**- SoC report
 
