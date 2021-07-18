@@ -54,3 +54,11 @@ This will display the reward, board and final score reached after each episode a
 - [TensorFlow tutorials](https://www.tensorflow.org/tutorials)
 
 5. **1st July - 17th July**:- This was the main coding period where we were expected to implement all the theory learnt into practice. First, I made a simple general DQN network to train network for the cartpole problem on OpenAI Gym. This was very helpful to learn the basic way of how the code worked. Later, I extended this implementation to work for 2048 game and then trained its performance for 2048 too.
+
+## Results of training
+
+I didnt have a lot of time left for training so the results right now are a little undertrained, if run for more than 100000 episodes, it will give much better results.
+Following is a scatter graph consisting comparision of max tile in the game(y axis) vs the number of episodes(x axis):
+
+![graph](https://user-images.githubusercontent.com/78316352/126067864-4d23d4eb-2f2b-409e-b2e1-dd5c3b3beb75.png)
+
